@@ -1,0 +1,9 @@
+CLUSTAL format alignment by MAFFT (v7.475)
+
+
+Sequence1       GARFIELDTHELASTF-ATCAT
+Sequence2       GARFIELDTHEFA----STCAT
+Sequence5       GARFIELDTHEVA----STCAT
+Sequence3       GARFIELDTHEVERYFASTCAT
+Sequence4       --------THEF-----ATCAT
+                        ***.     :****
