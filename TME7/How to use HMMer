@@ -1,0 +1,4 @@
+Example commands for HMM: (must be in the right directory where files are)
+Build ==> hmmbuild PF00096.hmm PF00096_seed.txt
+Search domains in query from HMM ==> hmmsearch PF00096.hmm X6NX52.fasta
+Cancel ==> Ctrl+C
